@@ -1,0 +1,15 @@
+#	$NetBSD$
+#
+# Easel (Intel Monette Hill) configuration info
+#
+
+include "arch/arm/pic/files.pic"
+include "arch/arm/cortex/files.cortex"
+
+include "arch/evbarm/conf/files.fdt"
+
+# Easel board files
+include "arch/arm/easel/files.easel"
+
+# Stack-less Just-In-Time compiler
+include	"external/bsd/sljit/conf/files.sljit"

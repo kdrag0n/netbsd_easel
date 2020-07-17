@@ -1,0 +1,9 @@
+#	$NetBSD$
+#
+# Configuration info for the Easel (Intell Monette Hill) board.
+#
+#
+
+file	arch/arm/easel/easel_platform.c		soc_easel
+
+defflag	opt_soc.h				SOC_EASEL
