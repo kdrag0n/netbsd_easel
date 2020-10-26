@@ -1,4 +1,4 @@
-From: Paco Garcia <pgarcia@cam.es>
+From: <REDACTED>
 
 This machine is a Bull Estrella  Minitower Model MT604-100
 Processor        : PPC604 
